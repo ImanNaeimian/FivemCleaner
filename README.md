@@ -24,4 +24,14 @@ If you are banned from a server, it is also recommended to use option 9.
 
 5-Finally, after using the spoofer, log into a new Rockstar account that is clean (not banned), launch your server, and enjoy!
 
+🚀 Future Plans
+
+✅ Support IRFive (Iranian FiveM client)
+└ Also add support for Diamond RP server and other popular servers
+
+✅ Support VMP (another Iranian FiveM client)
+└ Also add support for Sunset RP server and other popular servers
+
+
+
 ![image](https://github.com/user-attachments/assets/de33eb19-ef48-4d9a-a62a-e56eb8426832)
