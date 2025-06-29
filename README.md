@@ -2,8 +2,11 @@ FiveM Cleaner can help you delete all important traces and logs related to FiveM
 
 🔧 How to Use:
 1-Run the program as Administrator.
+
 2-Select the "Useful Cleaner" option (2).
+
 3-Then use the options: 7, 8, and 10.
+
 4-If you are banned from a server, it is also recommended to use option 9.
 
 ⚠️ Note: Option 9 is not a real spoofer. It simply deletes all server-side traces. It’s best used when you’ve already been banned.
